@@ -3,17 +3,4 @@ Welcome to Git
 My first git file 
 
 
-
-bsdbsajdsajkdsakd
-dsfjhvdshjfvhjsavfhsavf
-
-
-Dfdsfds
-
-Fdsfd
-Sf
-Def
-Dsfds
-
-xkjfbsdhjkbf'
-saf'safsaf
+some more changes
