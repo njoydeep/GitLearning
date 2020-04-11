@@ -1,9 +1,19 @@
-
+Welcome to Git
 
 
 My class 
 {
 Public Static void main()
+
+
+}
+
+
+
+
+Class HelloJava{
+
+main(){
 
 
 Welcome to Git
@@ -12,3 +22,5 @@ My first git file
 
 
 }
+
+
